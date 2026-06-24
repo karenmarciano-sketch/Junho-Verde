@@ -101,10 +101,10 @@ footer{
 
 @keyframes float{
     from{
-        transform:translateX(120px);
+        transform:translateX(120vw);
     }
 
     to{
-        transform:translateX(-100vw);
+        transform:translateX(-100px);
     }
 }
